@@ -1,0 +1,18 @@
+[submodule "vendor/github.com/vaughan0/go-ini"]
+	path = vendor/github.com/vaughan0/go-ini
+	url = https://github.com/vaughan0/go-ini
+[submodule "vendor/github.com/jmespath/go-jmespath"]
+	path = vendor/github.com/jmespath/go-jmespath
+	url = https://github.com/jmespath/go-jmespath
+[submodule "vendor/github.com/go-ini/ini"]
+	path = vendor/github.com/go-ini/ini
+	url = https://github.com/go-ini/ini
+[submodule "vendor/github.com/aws/aws-sdk-go"]
+	path = vendor/github.com/aws/aws-sdk-go
+	url = https://github.com/aws/aws-sdk-go
+[submodule "vendor/github.com/alecthomas/units"]
+	path = vendor/github.com/alecthomas/units
+	url = https://github.com/alecthomas/units
+[submodule "vendor/github.com/alecthomas/template"]
+	path = vendor/github.com/alecthomas/template
+	url = https://github.com/alecthomas/template
